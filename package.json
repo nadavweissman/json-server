@@ -19,13 +19,13 @@
     "prepublishOnly": "npm test && npm run build && pkg-ok"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.2",
     "chalk": "^2.4.1",
     "compression": "^1.7.3",
     "connect-pause": "^0.1.1",
     "cors": "^2.8.5",
     "errorhandler": "^1.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-urlrewrite": "^1.2.0",
     "json-parse-helpfulerror": "^1.0.3",
     "lodash": "^4.17.11",
